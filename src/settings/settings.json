@@ -1,0 +1,10 @@
+{
+    "guild": {
+        "id": ""
+    },
+    "bot": {
+        "owner": "",
+        "token": "",
+        "mongoURL": ""
+    }
+}
