@@ -1,5 +1,4 @@
 const { SlashCommandBuilder } = require("@discordjs/builders");
-const guild = require("../models/guild");
 const guildDatabase = require('../models/guild');
 
 module.exports = {
