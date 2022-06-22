@@ -1,4 +1,4 @@
-# kelimeoyunu-discordbot
+# Kelime oyun
 
 
 Yani en son çalıyordu ama...
